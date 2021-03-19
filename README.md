@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sajith
-- ✨ I’m a FrontEnd Engineer. My skills are React, Angular, Gatsby, Node, Express, Mongo 
+- ✨ I’m a FrontEnd Engineer. My skills are React, Angular, Gatsby, Node, Express, Mongo, Wordpress
 - 👀 I’m interested in projects to Learn and Develop my Skills.
 - 🌱 I’m currently learning Python, Web Automation, AWS.
 - 💞️ I’m looking to collaborate on fullstack projects with cool tech stacks.
